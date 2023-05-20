@@ -6,7 +6,7 @@ Les besoins du client ont été défini lors d'une première réunion, vous pouv
 [Notes+-+Réunion+Learn@Home.pdf](https://github.com/Mickael-Klein/OpenClassRooms-DevReact-Projet_10/files/11517612/Notes%2B-%2BReunion%2BLearn%40Home.pdf)
 
 ## **Home de la Documentation**
-[Wiki Home](https://github.com/Mickael-Klein/OpenClassRooms-DevReact-Projet_10/wiki)
+* [Wiki Home](https://github.com/Mickael-Klein/OpenClassRooms-DevReact-Projet_10/wiki)
 
 La documentation présente l'ensemble des pages qui seront présentes dans l'application avec pour chacune:
 * Le titre
@@ -31,5 +31,6 @@ L'application est composée des pages suivantes:
 
 
 ## **Liens Utiles**
+* [Wiki Home](https://github.com/Mickael-Klein/OpenClassRooms-DevReact-Projet_10/wiki)
 * [Maquettes de l'application](https://www.figma.com/file/OpRZc0CxagMZIhrlXu8P9O/Learn%40Home?type=design&node-id=0-1&t=fiyhHAIVWpNXnZnT-0)
 * [Kanban Learn@Home](https://github.com/users/Mickael-Klein/projects/6)
